@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+fixing_installs.ipynb
+llama32-1bn_finetuned_c/
+unsloth_compiled_cache/
+*.gguf
