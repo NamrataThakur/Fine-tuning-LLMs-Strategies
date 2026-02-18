@@ -249,6 +249,7 @@ uvicorn==0.34.3
 validators==0.34.0
 vcrpy==7.0.0
 watchfiles==1.1.0
+wandb
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1733231326287/work
 weaviate-client==4.15.0
 webencodings==0.5.1
