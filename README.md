@@ -7,4 +7,6 @@ We cover four strategies to fine-tune an existing pretrained model.
 
 We also cover model evaluation to quantify the improvements on base model, brought in by the fine-tuning experiments. We also cover synthetic dataset generator to create the fine-tuning datasets from an external document for the first two strategies. We also use open-sourced datasets for remaining strategies.
 
-Tech Stack: Python, Langchain, RAGAS, Flower, Huggingface, Ollama, FAISS
+We perform the first two experiments on the local hardware consisting of 1 NVIDIA GTX 1650 Ti GPU of 4GB VRAM.
+
+Tech Stack: Python, Langchain, RAGAS, Flower, Huggingface, Ollama, FAISS, Unsloth, Pytorch
