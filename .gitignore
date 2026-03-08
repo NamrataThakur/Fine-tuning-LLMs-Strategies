@@ -212,3 +212,4 @@ unsloth_compiled_cache/
 *.gguf
 wandb/
 llama32-1bn_raft/
+llama3.2-1bn_flower_model/
