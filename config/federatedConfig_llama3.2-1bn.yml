@@ -45,8 +45,8 @@ dp:
   clip_norm: 0.5
 flower:
   num_clients: 20
-  num_rounds: 200
-  fraction_fit: 0.8
+  num_rounds: 2
+  fraction_fit: 0.2
   client_resources:
     num_cpus: 4
     num_gpus: 1.0

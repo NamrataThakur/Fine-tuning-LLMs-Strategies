@@ -1,0 +1,5 @@
+FROM ./llama31-8bn_SFT_f16.gguf
+
+PARAMETER temperature 0.01
+
+SYSTEM "You are a helpful assistant fine-tuned for custom tasks."
